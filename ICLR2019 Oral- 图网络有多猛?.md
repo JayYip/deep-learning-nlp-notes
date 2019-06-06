@@ -109,3 +109,5 @@ $$ h_G = CONCAT(SUM(\{ h_v^k | v \in G \}) | k = 0, 1, \dots, K)$$
 ## 实验结果
 
 这里就不详细叙述了, 个人感觉比较有意思的实验结果是Figure 4, 作者分别比较了sum, mean, max, mlp, single layer perceptron在**训练集**的效果, 看能不能拟合到WL subtree kernel的效果, 实验结果证明了作者是对的. 至于泛化能力, 理论里面并没有对泛化能力做保证, 但是还是效果还是很不错的.
+
+原文链接: https://github.com/JayYip/deep-learning-nlp-notes/blob/master/ICLR2019%20Oral-%20%E5%9B%BE%E7%BD%91%E7%BB%9C%E6%9C%89%E5%A4%9A%E7%8C%9B%3F.md

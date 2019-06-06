@@ -204,6 +204,8 @@ print(g(a))
 
 在之后的部分我们会更加深入地探讨输入参数类型对效率的影响, 以及python操作的转换细节.
 
+原文链接: https://github.com/JayYip/deep-learning-nlp-notes/blob/master/tf.function%E5%92%8CAutograph%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97-Part%201.md
+
 声明: 本文翻译自[Paolo Galeone的博客](https://pgaleone.eu/tensorflow/tf.function/2019/03/21/dissecting-tf-function-part-1/), 已取得作者的同意, 如需转载本文请联系本人
 
 Disclaimer: This is a translation of the article [Analyzing tf.function to discover AutoGraph strengths and subtleties](https://pgaleone.eu/tensorflow/tf.function/2019/03/21/dissecting-tf-function-part-1/) by Paolo Galeone.

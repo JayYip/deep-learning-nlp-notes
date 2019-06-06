@@ -263,6 +263,8 @@ Native type time elapsed:  5.189513444900513
 
 在第三部分的文章中, 我们会探寻比`print`更加复杂的函数, 来看看各种操作重载等python操作的行为.
 
+原文链接: https://github.com/JayYip/deep-learning-nlp-notes/blob/master/tf.function%E5%92%8CAutograph%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97-Part%202.md
+
 声明: 本文翻译自[Paolo Galeone的博客](https://links.jianshu.com/go?to=https%3A%2F%2Fpgaleone.eu%2Ftensorflow%2Ftf.function%2F2019%2F03%2F21%2Fdissecting-tf-function-part-1%2F), 已取得作者的同意, 如需转载本文请联系本人
 
 Disclaimer: This is a translation of the article [Analyzing tf.function to discover AutoGraph strengths and subtleties](https://pgaleone.eu/tensorflow/tf.function/2019/04/03/dissecting-tf-function-part-2/) by Paolo Galeone.
